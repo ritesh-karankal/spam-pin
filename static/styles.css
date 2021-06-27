@@ -34,10 +34,16 @@ body{
 	}
 }
 
-.container-heading{
-    margin: 0;
+.title {
+	font-size: 40px;
+	color: #000;
+	line-height: 1.5em;
 }
 
+.container-heading{
+    margin: 0;
+    color: #333333;
+}
 .container span{
     color: #ff0000;
 }
@@ -93,7 +99,7 @@ body{
 }
 
 .contact-icon{
-	color: #000000;
+	color: #444444;
 	padding: 7px;
 }
 
