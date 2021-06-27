@@ -6,6 +6,9 @@
 • Created a machine learning model that **detects/classifies a SMS into SPAM or HAM (normal) based on the textual data using Natural Language Processing.**<br/>
 • **Engineered features like word_count, contains_currency_symbol, and contains_number** from the text SMS.
 
+## Deployed at 
+https://spamping.herokuapp.com/
+
 ## How will this project help?
 • This project **helps in filtering/cleaning the SMS from the phone.**
 
