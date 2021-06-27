@@ -13,7 +13,7 @@ https://spamping.herokuapp.com/
 • This project **helps in filtering/cleaning the SMS from the phone.**
 
 ## Resources Used
-• Packages: **pandas, numpy, sklearn, matplotlib, seaborn, nltk.**<br/>
+• Packages: **pandas, numpy, sklearn, matplotlib, nltk.**<br/>
 • Dataset by **UCI Machine Learing on Kaggle**: https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
 ## How to run the project?
