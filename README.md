@@ -1,4 +1,4 @@
-# spam-ping
+![SSMS](readme-resources/Spam_Ping.png)
 
 ![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![library](https://img.shields.io/badge/Library-nltk,_sklearn-orange.svg)
 
