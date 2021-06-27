@@ -34,18 +34,13 @@ body{
 	}
 }
 
-.title {
-	font-size: 40px;
-	color: #000;
-	line-height: 1.5em;
-}
-
 .container-heading{
     margin: 0;
-    color: #333333;
+	color: #3b3b3b;
 }
+
 .container span{
-    color: #ff0000;
+    color: #DA0037;
 }
 
 .description p{
@@ -78,8 +73,8 @@ body{
 }
 
 .my-cta-button:hover{
-    color: #ff0000;
-    border: 2px solid #ff0000;
+    color: #DA0037;
+    border: 2px solid #DA0037;
 }
 
 .my-cta-button:active{
@@ -120,7 +115,7 @@ body{
 }
 
 .danger{
-    color: #ff0000;
+    color: #DA0037;
 }
 
 .safe{
@@ -129,4 +124,9 @@ body{
 
 .gif{
 	width: 30%;
+}
+.title {
+	font-size: 40px;
+	color: #000;
+	line-height: 1.5em;
 }
